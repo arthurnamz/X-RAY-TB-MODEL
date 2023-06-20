@@ -1,4 +1,4 @@
-#X-RAY-TB-MODEL
+# X-RAY-TB-MODEL
 Detecting tuberculosis from X-ray scan using pytorch
 
 ## Introduction
